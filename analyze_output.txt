@@ -1,0 +1,8 @@
+Analyzing lib...
+
+   info • Don't invoke 'print' in production code • recruva_app/lib/home_screen.dart:333:20 • avoid_print
+   info • Don't invoke 'print' in production code • recruva_app/lib/home_screen.dart:385:28 • avoid_print
+   info • Don't invoke 'print' in production code • recruva_app/lib/home_screen.dart:465:30 • avoid_print
+   info • Don't invoke 'print' in production code • recruva_app/lib/widgets/custom_bottom_nav_bar.dart:72:32 • avoid_print
+
+4 issues found. (ran in 1.2s)

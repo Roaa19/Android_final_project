@@ -13,3 +13,12 @@
 .externalNativeBuild
 .cxx
 local.properties
+recruva_app/android/
+recruva_app/ios/
+recruva_app/windows/
+recruva_app/linux/
+recruva_app/macos/
+recruva_app/web/
+recruva_app/.dart_tool/
+recruva_app/.idea/
+recruva_app/build/
